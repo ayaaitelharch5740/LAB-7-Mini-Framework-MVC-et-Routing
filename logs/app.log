@@ -1,0 +1,2 @@
+2026-03-03 16:44:13 [ERROR] DB Connection failed: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+2026-03-03 16:46:50 [ERROR] DB Connection failed: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
