@@ -19,7 +19,7 @@ class AppFactory
         $dbHost = '127.0.0.1';
         $dbName = 'gestion_etudiants_pdo';
         $dbUser = 'root';
-        $dbPass = '';
+        $dbPass = '1234';
         $charset = 'utf8mb4';
 
         $logger = new Logger(__DIR__ . '/../../logs/app.log');
